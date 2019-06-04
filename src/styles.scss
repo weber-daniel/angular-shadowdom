@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+
+div {
+  margin: 0 5rem;
+  color: greenyellow;
+  background-color: grey !important;
+  border: 5px dotted yellowgreen !important;
+  border-radius: 25% !important;
+}
+
+p {
+  margin-top: 2rem;
+}
