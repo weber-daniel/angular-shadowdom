@@ -1,5 +1,12 @@
 # ViewShadowDomTest
 
+## How to Run
+
+- git clone *Projekt-Link*
+-  npm install
+- npm start (default port 4200)
+- (npm start -- --port 4444)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
 ## Development server
